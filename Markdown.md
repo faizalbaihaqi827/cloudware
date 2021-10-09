@@ -10,8 +10,6 @@ Markdown bisa dikonversi ke dalam HTML menggunakan beberapa aplikasi. Biasanya m
 
 Markdown dibuat pada tahun 2004 oleh **John Gruber**. Tujuannya untuk mempermudah penulisan dokumen web—mudah ditulis dan mudah dibaca—karena menulis langsung HTML terasa melelahkan dan susah dibaca.<sup><font color="#4c9df8">[1]</font></sup>
 
-![image](content://media/external/images/media/97466)
-
 <hr>
 
 <p align="center"><small><sup><font color="#4c9df8">[1]</font></sup> https://www.petanikode.com/markdown-pemula/</small><p>
